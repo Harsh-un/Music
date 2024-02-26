@@ -11,7 +11,7 @@ class Config(object):
     API_ID = int(getenv("API_ID", 0))                  # get from my.telegram.org
     BOT_TOKEN = getenv("BOT_TOKEN", None)              # get from @BotFather
     DATABASE_URL = getenv("DATABASE_URL", None)        # from https://cloud.mongodb.com/
-    HELLBOT_SESSION = getenv("HELLBOT_SESSION", None)  # enter your session string here
+    UNBOT_SESSION = getenv("UNBOT_SESSION", None)  # enter your session string here
     LOGGER_ID = int(getenv("LOGGER_ID", 0))            # make a channel and get its ID
     OWNER_ID = getenv("OWNER_ID", "")                  # enter your id here
 
