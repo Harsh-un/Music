@@ -75,21 +75,21 @@ This is a light weight source, as a result it gives faster and better performanc
 ## 📝 Disclaimer
 - Every project available under The-HellBot are open-source and free to use and modify to your needs.
 - Anyone pretending to be the developer of this bot and selling the code, is a scammer.
-- There are no other developers but @HellBoy-OP & @ProRaiden associated with HellBot Music Project.
+
 - We are not restricting anyone from using this code for their own purpose. But a minimal credit is expected.
 
 ------
 # 📋 License
 
 <p align="center">
-    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="HellBot License">
+    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="UnBot License">
 </p>
 
 <h4 align="center">
-    Copyright (C) 2023 <a href="https://github.com/Harsh-un">The-HellBot</a>
+    Copyright (C) 2023 <a href="https://github.com/Harsh-un">Harsh-un</a>
 </h4>
 
-Project [HellBot Music](https://github.com/Harsh-un/Music) is free software: you can redistribute it and/or modify
+Project [Un Music bot](https://github.com/Harsh-un/Music) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
