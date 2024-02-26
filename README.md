@@ -78,6 +78,10 @@ This is a light weight source, as a result it gives faster and better performanc
 
 - We are not restricting anyone from using this code for their own purpose. But a minimal credit is expected.
 
+
+[![Deploy](https://www.herokucdn.com/deploy_Unbot/button.svg)](https://heroku.com/deploy?template=https://github.com/Harsh-un/Music)
+
+
 ------
 # 📋 License
 
