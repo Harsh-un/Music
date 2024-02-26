@@ -33,14 +33,14 @@ except:
 
 
 def main():
-    print("T E A M    H E L L B O T   ! !")
-    print("Hello!! Welcome to HellBot Session Generator\n")
+    print("T E A M    U N B O T   ! !")
+    print("Hello!! Welcome to UnBot Session Generator\n")
     print("Human Verification Required !!")
     while True:
         verify = int(randint(1, 50))
         okvai = int(input(f"Enter {verify} to continue: "))
         if okvai == verify:
-            print("\nChoose the string session type: \n1. HellBot \n2. Telethon \n3. Pyrogram \n4. Instagram")
+            print("\nChoose the string session type: \n1. UnBot \n2. Telethon \n3. Pyrogram \n4. Instagram")
             while True:
                 library = input("\nYour Choice: ")
                 if library == "1":
@@ -62,9 +62,9 @@ def main():
             print("Verification Failed! Try Again:")
 
 
-def generate_hellbot_session():
-    print("!!! HELLBOT SESSION !!!")
-    print("One session for all HellBot's Project.")
+def generate_unbot_session():
+    print("!!! UNBOT SESSION !!!")
+    print("One session for all UnBot's Project.")
     api_id = int(input("\nEnter APP ID here: "))
     api_hash = input("\nEnter API_HASH here: ")
     with PClient(name="helluser", api_id=api_id, api_hash=api_hash, in_memory=True) as hell:
