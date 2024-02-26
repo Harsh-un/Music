@@ -1,7 +1,7 @@
 {
-	"name": "HellMusic",
-	"description": "A telegram voice chat music player bot by The-Hellbot, coded in python using Pyrogram and PyTgCalls",
-	"logo": "https://te.legra.ph/file/7decf235312af8536e9aa.jpg",
+	"name": "UnMusic",
+	"description": "A telegram voice chat music player bot by Harsh-un , coded in python using Pyrogram and PyTgCalls",
+	"logo": "https://telegra.ph/file/27b1424eedf2c80ac1bc3.jpg",
 	"keywords": [
 		"telegram",
 		"musicbot",
@@ -12,7 +12,7 @@
 		"modular",
 		"productivity",
 		"music",
-		"hellbot"
+		"unbot"
 	],
 	"repository": "https://github.com/The-HellBot/HellMusic/",
 	"env": {
@@ -26,7 +26,7 @@
 		},
 		"BOT_NAME": {
 			"description": "Name of bot to display on Thumbnail. Don't use fancy texts. Use plain text only.",
-			"value": "@Music_HellBot"
+			"value": "@un_musicbot"
 		},
 		"BOT_TOKEN": {
 			"description": "Make a bot from @BotFather and paste the bot token here.",
@@ -44,7 +44,7 @@
             "description": "Your telegram user id.",
             "value": ""
         },
-        "HELLBOT_SESSION": {
+        "UNBOT_SESSION": {
             "description": "Paste pyrogram session string.",
             "value": ""
         },
